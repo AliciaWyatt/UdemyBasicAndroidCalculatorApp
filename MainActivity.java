@@ -1,7 +1,7 @@
 /*
 Created as part of a Udemy video tutorial series by Morteza Kordi
 
-Still has a bug: Crashes if no number entered BEFORE operator on start and after clear.
+31 Jan 2018 - Still has a bug: Crashes if no number entered BEFORE operator on start and after clear.
  */
 
 
